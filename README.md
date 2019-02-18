@@ -1,1 +1,1 @@
-# Google_Trends_Time_Series_Analysis
+## Google Trends Time Series Analysis
